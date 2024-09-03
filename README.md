@@ -1,5 +1,4 @@
-Needed library: SDL
-The include and lib folders of the SDL library, that are necessary for compiling, are include in the repository. Download the repository and run the makefile (in case you have GNU g++ installed) to compile the file and run the program.
+SDL is needed for this simulator. The include and lib folders of the SDL library, that are necessary for compiling, are include in the repository. Download the repository and run the makefile (in case you have GNU g++ installed) to compile the file and run the program.
 
 The program is a so-called n-body-simulator. When it is runned, a black screen will apear. With the arrow keys on the keyboard, the inital speed can be increased in x and y directions. The selected speeds will be monitored on the terminal. 
 With the minus and plus keys on the numpad, the mass of the body can be changed. 
